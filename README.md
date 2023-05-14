@@ -1,5 +1,6 @@
-### Hi there 👋
+# Hi, I'm Minh Thong Mai 🌻
 
+[![Website Badge](https://img.shields.io/badge/-minhthongmai.com-EF444F?style=flat&logo=google-chrome&logoColor=white&link=https://minhthongmai.com)](https://minhthongmai.com)
 <!--
 **MinhThong14/MinhThong14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
