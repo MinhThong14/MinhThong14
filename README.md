@@ -8,10 +8,6 @@
 
 I'm driven by high-performance, scalable systems for big data and ML applications.🎯
 
-I'm looking for a full-time software development position starting January 2024 solving personalization and recommendation-based problems at scale. I'm interested in AI/ML-related projects where I can apply algorithms and user-centric approaches to improve life. My experience has ranged from tooling and performance engineering for an infrastructure monitoring solution at Nokia to data analysis for a data catalog project at Innovapost Data Architecture team, to working on full stack web developer at Knak, a startup where I am wearing many hats from doing front-end, back-end and integration.
-
-Previously, I've been involved in designing and developing the user interface for Nokia's Application Monitoring Platform, writing UI in Javascript and building API end-points using Python Flask. I also contributed to a data-mining project at Nokia, writing crawling code in Python, containerizing and deploying scripts to Azure and GCP using Docker and Kubernetes. As a data analyst intern at Innovapost, I designed and implemented data processing code using Python to help convert meta-data from spreadsheets to the database. At my position at Knak, I'm building and deploying an enterprise web app using Vue, PHP, Laravel, TypeScript, Docker and AWS. 
-
 As a software development student, I'm learning how to write clean code across stacks making an impact directly on consumer companies.
 
 I'm also keen on badminton, sketching and travelling. I'd love to get a coffee ☕️ and chat 🎭.
