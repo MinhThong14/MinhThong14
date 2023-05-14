@@ -15,7 +15,7 @@ I'm also keen on badminton, sketching and travelling. I'd love to get a coffee �
 ## What am I up to?
 
 I'm...
-- 💻 previously an intern [@Knak](https://knak.com/), [@Innovapost](https://innovapost.com/), and [@Nokia](https://www.nokia.com/)
+- 💻 Previously an intern [@Knak](https://knak.com/), [@Innovapost](https://innovapost.com/), and [@Nokia](https://www.nokia.com/)
 - 📚 A 4th year undergraduate computer science student [@carletonuniversity](https://carleton.ca)
 - ✏️ Designing experiences, user interfaces, and beautiful applications
 - 🗄 Learning and experimenting distributed system and AI/ML
