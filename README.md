@@ -8,7 +8,7 @@
 
 I'm driven by high-performance, scalable systems for big data and ML applications.🎯
 
-As a software development student, I'm learning how to write clean code across stacks making an impact directly on consumer companies.
+As a software development student, I'm learning how to write clean code across stacks making an impact directly on consumer companies.🍻
 
 I'm also keen on badminton, sketching and travelling. I'd love to get a coffee ☕️ and chat 🎭.
 
